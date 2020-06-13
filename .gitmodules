@@ -1,0 +1,6 @@
+[submodule "dbg"]
+	path = dbg
+	url = https://gitlab.com/mtx_ing6/dbg.git
+[submodule "littlefs\\littlefs"]
+	path = littlefs\\littlefs
+	url = https://github.com/ARMmbed/littlefs.git

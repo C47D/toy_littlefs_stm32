@@ -1,0 +1,6 @@
+DBG.c:19:6:_putchar	16	static
+DBG.c:24:6:DBG_init	0	static
+DBG.c:29:6:DBG_clear_screen	16	static
+DBG.c:35:6:DBG_println	16	static
+DBG.c:45:6:DBG_print	16	static
+DBG.c:64:6:DBG_hexdump	16	static

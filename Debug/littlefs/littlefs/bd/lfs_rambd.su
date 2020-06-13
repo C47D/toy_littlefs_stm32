@@ -1,0 +1,7 @@
+lfs_rambd.c:9:5:lfs_rambd_createcfg	16	static
+lfs_rambd.c:45:5:lfs_rambd_create	0	static
+lfs_rambd.c:60:5:lfs_rambd_destroy	8	static
+lfs_rambd.c:71:5:lfs_rambd_read	8	static
+lfs_rambd.c:90:5:lfs_rambd_prog	8	static
+lfs_rambd.c:117:5:lfs_rambd_erase	8	static
+lfs_rambd.c:134:5:lfs_rambd_sync	0	static
