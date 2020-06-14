@@ -1,6 +1,3 @@
 [submodule "dbg"]
 	path = dbg
 	url = https://github.com/C47D/dbg.git
-[submodule "littlefs\\littlefs"]
-	path = littlefs\\littlefs
-	url = https://github.com/ARMmbed/littlefs.git
