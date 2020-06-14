@@ -1,7 +1,0 @@
-main.c:259:5:user_provided_block_device_sync	0	static
-main.c:163:5:user_provided_block_device_read	16	static
-main.c:179:5:user_provided_block_device_prog	32	static
-main.c:213:5:user_provided_block_device_erase	8	static
-main.c:548:6:SystemClock_Config	88	static
-main.c:274:5:main	16	static
-main.c:590:6:Error_Handler	0	static
